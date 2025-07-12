@@ -235,7 +235,7 @@ export function WarRoomDashboard() {
             <div className="mt-2">
               <div className="flex items-center text-purple-300 text-sm">
                 <DollarSign className="w-4 h-4 mr-1" />
-                $8.47 saved per $1 invested
+                $8.477 saved per $1 invested
               </div>
             </div>
           </CardContent>
